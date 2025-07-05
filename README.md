@@ -105,29 +105,4 @@ NER for tweets poses unique challenges due to informal language, abbreviations, 
 ## 👨‍💼 Author
 
 **Veeranna Hanamashetti**
-M.S. in Data Science and Machine Learning
-18+ years of professional experience in engineering, consulting, and data science
 
----
-
-## 🔗 Repository Structure (Suggested)
-
-```
-├── data/
-├── notebooks/
-│   └── Twitter_NER_Project_00.ipynb
-├── models/
-├── outputs/
-├── README.md
-└── requirements.txt
-```
-
----
-
-## 💼 License
-
-This project is released under the [MIT License](LICENSE).
-
----
-
-Feel free to ⭐️ this repo if you found it helpful!
