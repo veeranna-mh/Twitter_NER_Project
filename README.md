@@ -22,7 +22,7 @@ This project focuses on Named Entity Recognition (NER) on noisy Twitter data usi
 | **BERT + Focal Loss**       | Tackled class imbalance                | Improved recall and F1 on key entities           |
 | **Tuned BERT + Focal Loss** | With KerasTuner hyperparameter tuning  | **Best model** with F1-score **0.25 (micro)**    |
 
----
 
-## 📂 Project Structure
+
+
 
